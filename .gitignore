@@ -1,0 +1,37 @@
+# Generated firmware and release packages
+/build/
+/dist/
+
+# Historical Astra downloads/extractions; the build uses only the versioned
+# ThirdParty/oled-ui-astra-0.0.2-alpha directory.
+/ThirdParty/astra-ui/
+/ThirdParty/oled-ui-astra/
+/ThirdParty/astra-ui-v0.0.2-alpha.zip
+/ThirdParty/_astra_extract/
+
+# CMake/Ninja output accidentally generated outside build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+build.ninja
+.ninja_*
+*.map
+*.su
+
+# IDE and operating-system files
+/.vscode/
+/.idea/
+/.vs/
+*.user
+*.suo
+*.swp
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary logs and backups
+*.log
+*.tmp
+*.bak
