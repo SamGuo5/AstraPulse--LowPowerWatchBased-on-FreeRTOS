@@ -107,4 +107,3 @@ AstraPulse 因基于 GPL-3.0 的 oled-ui-astra 进行适配，整体以
 - [oled-ui-astra](https://github.com/AstraThreshold/oled-ui-astra)
 - [FreeRTOS Kernel](https://github.com/FreeRTOS/FreeRTOS-Kernel)
 - [u8g2](https://github.com/olikraus/u8g2)
-- WenQuanYi Bitmap Song
